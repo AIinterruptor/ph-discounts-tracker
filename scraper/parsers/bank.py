@@ -3,13 +3,20 @@ from bs4 import BeautifulSoup
 from scraper.models import make_deal
 
 BPI_BASE = "https://www.bpi.com.ph"
-RCBC_BASE = "https://www.rcbccredit.com"
+RCBC_BASE = "https://rcbccredit.com"
 EASTWEST_BASE = "https://www.eastwestbanker.com"
 
 
 def parse_bpi(html: str, scrape_date: str) -> list[dict]:
     soup = BeautifulSoup(html, "html.parser")
     deals = []
+    seen_urls = set()
+    # NOTE: BPI's promos page renders each promo card once per matching
+    # category tab panel (div.article-list-main-cont), so the same promo
+    # can legitimately appear under multiple tabs (e.g. "Dining" and
+    # "Travel"). There is no card-level selector that yields exactly one
+    # match per unique promo, so we dedup by URL, keeping the first
+    # occurrence encountered.
     for card in soup.select("div.article-page-cont"):
         title_tag = card.select_one("p.tab-head-cont")
         desc_tag = card.select_one("p.article-desc")
@@ -23,6 +30,9 @@ def parse_bpi(html: str, scrape_date: str) -> list[dict]:
             url = f"{BPI_BASE}{url}"
         if not title or not url:
             continue
+        if url in seen_urls:
+            continue
+        seen_urls.add(url)
         deals.append(
             make_deal(
                 title=title,

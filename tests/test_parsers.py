@@ -149,6 +149,18 @@ def test_parse_bpi_returns_deals():
     assert deal["url"].startswith("http")
 
 
+def test_parse_bpi_dedupes_by_url():
+    # bpi.html's article-page-cont selector matches each promo once per
+    # category tab it belongs to, so the same promo can appear multiple
+    # times in the raw DOM. parse_bpi must dedup by URL, keeping the first
+    # occurrence, so callers never see the same promo repeated.
+    html = _read_fixture("bpi.html")
+    deals = bank.parse_bpi(html, "2026-07-03")
+    urls = [deal["url"] for deal in deals]
+    assert len(urls) == len(set(urls)), "parse_bpi returned duplicate URLs"
+    assert len(deals) == 29
+
+
 def test_parse_rcbc_returns_deals():
     html = _read_fixture("rcbc.html")
     deals = bank.parse_rcbc(html, "2026-07-03")
@@ -158,6 +170,16 @@ def test_parse_rcbc_returns_deals():
     assert deal["source"] == "RCBC Credit Promos"
     assert deal["title"] != ""
     assert deal["url"].startswith("http")
+
+
+def test_parse_rcbc_uses_bare_host_domain():
+    # rcbccredit.com's canonical link and all internal links use the bare
+    # host (no "www"); RCBC_BASE must match or relative URLs resolve to a
+    # dead/incorrect host.
+    html = _read_fixture("rcbc.html")
+    deals = bank.parse_rcbc(html, "2026-07-03")
+    assert deals[0]["url"] == "https://rcbccredit.com/promos/JCoNAIA2026"
+    assert all("www.rcbccredit.com" not in deal["url"] for deal in deals)
 
 
 def test_parse_eastwest_returns_deals():
