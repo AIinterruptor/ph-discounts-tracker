@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PH Discounts Tracker</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #ffffff;
+    --fg: #1a1a1a;
+    --card-bg: #f5f5f5;
+    --accent: #0a7d3c;
+    --muted: #666666;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #121212;
+      --fg: #e8e8e8;
+      --card-bg: #1e1e1e;
+      --accent: #4ade80;
+      --muted: #a0a0a0;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background: var(--bg);
+    color: var(--fg);
+    margin: 0;
+    padding: 1.5rem;
+    max-width: 800px;
+    margin-inline: auto;
+  }
+  h1 { font-size: 1.5rem; margin-bottom: 0.25rem; }
+  .subtitle { color: var(--muted); margin-top: 0; margin-bottom: 1.25rem; font-size: 0.9rem; }
+  .filters { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.5rem; }
+  .filter-chip {
+    padding: 0.4rem 0.9rem;
+    border-radius: 999px;
+    border: 1px solid var(--muted);
+    background: transparent;
+    color: var(--fg);
+    cursor: pointer;
+    font-size: 0.85rem;
+  }
+  .filter-chip.active { background: var(--accent); color: #ffffff; border-color: var(--accent); }
+  .deal-card {
+    background: var(--card-bg);
+    border-radius: 12px;
+    padding: 1rem 1.25rem;
+    margin-bottom: 0.75rem;
+  }
+  .deal-title { font-weight: 600; margin: 0 0 0.25rem; }
+  .deal-discount { color: var(--accent); font-weight: 600; font-size: 0.9rem; }
+  .deal-description { color: var(--muted); font-size: 0.9rem; margin: 0.4rem 0; }
+  .deal-meta { font-size: 0.8rem; color: var(--muted); display: flex; justify-content: space-between; margin-top: 0.5rem; }
+  .deal-meta a { color: var(--fg); }
+  #empty-state { color: var(--muted); text-align: center; padding: 2rem 0; }
+</style>
+</head>
+<body>
+  <h1>PH Discounts Tracker</h1>
+  <p class="subtitle">Nationwide Philippines discounts, scraped daily. Deals disappear 14 days after they stop showing up on their source.</p>
+  <div class="filters" id="filters"></div>
+  <div id="deals"></div>
+  <div id="empty-state" style="display:none;">No deals match this filter.</div>
+
+  <script>
+    const CATEGORIES = ["retail", "ecommerce", "food", "bank", "aggregator"];
+    let allDeals = [];
+    let activeCategory = "all";
+
+    function daysAgo(dateStr) {
+      const diffMs = Date.now() - new Date(dateStr + "T00:00:00").getTime();
+      const days = Math.floor(diffMs / 86400000);
+      if (days <= 0) return "today";
+      if (days === 1) return "1 day ago";
+      return `${days} days ago`;
+    }
+
+    function renderFilters() {
+      const container = document.getElementById("filters");
+      const options = ["all", ...CATEGORIES];
+      container.innerHTML = options
+        .map(
+          (cat) =>
+            `<button class="filter-chip${cat === activeCategory ? " active" : ""}" data-category="${cat}">${cat}</button>`
+        )
+        .join("");
+      container.querySelectorAll(".filter-chip").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          activeCategory = btn.dataset.category;
+          renderFilters();
+          renderDeals();
+        });
+      });
+    }
+
+    function renderDeals() {
+      const container = document.getElementById("deals");
+      const emptyState = document.getElementById("empty-state");
+      const filtered =
+        activeCategory === "all"
+          ? allDeals
+          : allDeals.filter((d) => d.category === activeCategory);
+
+      if (filtered.length === 0) {
+        container.innerHTML = "";
+        emptyState.style.display = "block";
+        return;
+      }
+      emptyState.style.display = "none";
+
+      container.innerHTML = filtered
+        .map(
+          (deal) => `
+        <div class="deal-card">
+          <p class="deal-title">${escapeHtml(deal.title)}</p>
+          ${deal.discount_text ? `<p class="deal-discount">${escapeHtml(deal.discount_text)}</p>` : ""}
+          ${deal.description ? `<p class="deal-description">${escapeHtml(deal.description)}</p>` : ""}
+          <div class="deal-meta">
+            <a href="${escapeAttr(deal.url)}" target="_blank" rel="noopener">${escapeHtml(deal.source)}</a>
+            <span>seen ${daysAgo(deal.last_seen)}</span>
+          </div>
+        </div>`
+        )
+        .join("");
+    }
+
+    function escapeHtml(str) {
+      const div = document.createElement("div");
+      div.textContent = str;
+      return div.innerHTML;
+    }
+
+    function escapeAttr(str) {
+      return str.replace(/"/g, "&quot;");
+    }
+
+    fetch("../data/deals.json")
+      .then((res) => res.json())
+      .then((data) => {
+        allDeals = data;
+        renderFilters();
+        renderDeals();
+      })
+      .catch(() => {
+        document.getElementById("deals").innerHTML =
+          '<p id="empty-state">Could not load deals data.</p>';
+      });
+  </script>
+</body>
+</html>
