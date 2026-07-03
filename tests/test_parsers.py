@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from scraper.parsers import ecommerce, food, retail
+from scraper.parsers import bank, ecommerce, food, retail
 
 FIXTURES = Path(__file__).parent / "fixtures"
 
@@ -136,3 +136,46 @@ def test_parse_spot_via_hashed_platform():
     )
     assert len(deals) >= 1
     assert deals[0]["source"] == "Spot.ph Coupons"
+
+
+def test_parse_bpi_returns_deals():
+    html = _read_fixture("bpi.html")
+    deals = bank.parse_bpi(html, "2026-07-03")
+    assert len(deals) >= 1
+    deal = deals[0]
+    assert deal["category"] == "bank"
+    assert deal["source"] == "BPI Promos"
+    assert deal["discount_text"] != ""
+    assert deal["url"].startswith("http")
+
+
+def test_parse_rcbc_returns_deals():
+    html = _read_fixture("rcbc.html")
+    deals = bank.parse_rcbc(html, "2026-07-03")
+    assert len(deals) >= 1
+    deal = deals[0]
+    assert deal["category"] == "bank"
+    assert deal["source"] == "RCBC Credit Promos"
+    assert deal["title"] != ""
+    assert deal["url"].startswith("http")
+
+
+def test_parse_eastwest_returns_deals():
+    html = _read_fixture("eastwest.html")
+    deals = bank.parse_eastwest(html, "2026-07-03")
+    assert len(deals) >= 1
+    deal = deals[0]
+    assert deal["category"] == "bank"
+    assert deal["source"] == "EastWest Promos"
+    assert deal["description"] != ""
+    assert deal["url"].startswith("http")
+
+
+def test_parse_moneymax_metrobank_returns_single_deal():
+    html = _read_fixture("moneymax_metrobank.html")
+    deals = bank.parse_moneymax_metrobank(html, "2026-07-03")
+    assert len(deals) == 1
+    deal = deals[0]
+    assert deal["category"] == "bank"
+    assert deal["source"] == "Moneymax Metrobank"
+    assert deal["title"] != ""
