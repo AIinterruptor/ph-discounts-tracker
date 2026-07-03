@@ -56,7 +56,10 @@
   .deal-description { color: var(--muted); font-size: 0.9rem; margin: 0.4rem 0; }
   .deal-meta { font-size: 0.8rem; color: var(--muted); display: flex; justify-content: space-between; margin-top: 0.5rem; }
   .deal-meta a { color: var(--fg); }
-  #empty-state { color: var(--muted); text-align: center; padding: 2rem 0; }
+  #empty-state, #fetch-error { color: var(--muted); text-align: center; padding: 2rem 0; }
+  #scraper-status { color: var(--muted); font-size: 0.8rem; margin-top: 1.5rem; }
+  #scraper-status summary { cursor: pointer; }
+  #scraper-status ul { margin: 0.5rem 0 0; padding-left: 1.25rem; }
 </style>
 </head>
 <body>
@@ -65,6 +68,10 @@
   <div class="filters" id="filters"></div>
   <div id="deals"></div>
   <div id="empty-state" style="display:none;">No deals match this filter.</div>
+  <details id="scraper-status" style="display:none;">
+    <summary>Scraper status</summary>
+    <ul id="scraper-errors"></ul>
+  </details>
 
   <script>
     const CATEGORIES = ["retail", "ecommerce", "food", "bank", "aggregator"];
@@ -153,6 +160,19 @@
         document.getElementById("deals").innerHTML =
           '<p id="fetch-error">Could not load deals data.</p>';
       });
+
+    fetch("data/last_run_errors.json")
+      .then((res) => res.json())
+      .then((errors) => {
+        if (!Array.isArray(errors) || errors.length === 0) return;
+        const status = document.getElementById("scraper-status");
+        const list = document.getElementById("scraper-errors");
+        list.innerHTML = errors
+          .map((e) => `<li>${escapeHtml(e.source || "unknown source")}: ${escapeHtml(e.error || "failed to fetch")}</li>`)
+          .join("");
+        status.style.display = "block";
+      })
+      .catch(() => {});
   </script>
 </body>
 </html>
