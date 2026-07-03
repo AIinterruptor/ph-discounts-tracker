@@ -59,7 +59,11 @@ def parse_rappler(html: str, scrape_date: str) -> list[dict]:
 
 
 def parse_hashed_card_platform(
-    html: str, scrape_date: str, source_name: str, container_selector: str
+    html: str,
+    scrape_date: str,
+    source_name: str,
+    container_selector: str,
+    category: str = "ecommerce",
 ) -> list[dict]:
     """Shared parser for the coupon-site platform used by VoucherCodes.ph,
     RewardPay, Yummy.ph, and CollectOffers. Build-hashed classes regenerate
@@ -122,7 +126,7 @@ def parse_hashed_card_platform(
                 description=description,
                 discount_text=discount_text,
                 url=page_url,
-                category="ecommerce",
+                category=category,
                 source=source_name,
                 scrape_date=scrape_date,
             )

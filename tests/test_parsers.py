@@ -201,3 +201,17 @@ def test_parse_moneymax_metrobank_returns_single_deal():
     assert deal["category"] == "bank"
     assert deal["source"] == "Moneymax Metrobank"
     assert deal["title"] != ""
+
+
+def test_parse_collectoffers_via_hashed_platform():
+    html = _read_fixture("collectoffers.html")
+    deals = ecommerce.parse_hashed_card_platform(
+        html,
+        "2026-07-03",
+        "CollectOffers PH",
+        container_selector="article._1ve99md1",
+        category="aggregator",
+    )
+    assert len(deals) >= 1
+    assert deals[0]["source"] == "CollectOffers PH"
+    assert deals[0]["category"] == "aggregator"
