@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from scraper.parsers import ecommerce, retail
+from scraper.parsers import ecommerce, food, retail
 
 FIXTURES = Path(__file__).parent / "fixtures"
 
@@ -105,3 +105,34 @@ def test_parse_picodi_returns_deals():
     assert deal["category"] == "ecommerce"
     assert deal["source"] == "Picodi PH"
     assert deal["title"] != ""
+
+
+def test_parse_jollibee_returns_deals():
+    html = _read_fixture("jollibee.html")
+    deals = food.parse_jollibee(html, "2026-07-03")
+    assert len(deals) >= 1
+    deal = deals[0]
+    assert deal["category"] == "food"
+    assert deal["source"] == "Jollibee Promos"
+    assert deal["title"] != ""
+    assert deal["url"].startswith("http")
+
+
+def test_parse_chowking_returns_deals():
+    html = _read_fixture("chowking.html")
+    deals = food.parse_chowking(html, "2026-07-03")
+    assert len(deals) >= 1
+    deal = deals[0]
+    assert deal["category"] == "food"
+    assert deal["source"] == "Chowking Promos"
+    assert deal["title"] != ""
+    assert deal["url"].startswith("http")
+
+
+def test_parse_spot_via_hashed_platform():
+    html = _read_fixture("spot.html")
+    deals = ecommerce.parse_hashed_card_platform(
+        html, "2026-07-03", "Spot.ph Coupons", container_selector="article._1ve99md1"
+    )
+    assert len(deals) >= 1
+    assert deals[0]["source"] == "Spot.ph Coupons"
