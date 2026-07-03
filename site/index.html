@@ -120,7 +120,7 @@
           ${deal.discount_text ? `<p class="deal-discount">${escapeHtml(deal.discount_text)}</p>` : ""}
           ${deal.description ? `<p class="deal-description">${escapeHtml(deal.description)}</p>` : ""}
           <div class="deal-meta">
-            <a href="${escapeAttr(deal.url)}" target="_blank" rel="noopener">${escapeHtml(deal.source)}</a>
+            ${isSafeUrl(deal.url) ? `<a href="${escapeAttr(deal.url)}" target="_blank" rel="noopener">${escapeHtml(deal.source)}</a>` : escapeHtml(deal.source)}
             <span>seen ${daysAgo(deal.last_seen)}</span>
           </div>
         </div>`
@@ -138,6 +138,10 @@
       return str.replace(/"/g, "&quot;");
     }
 
+    function isSafeUrl(str) {
+      return typeof str === "string" && (str.startsWith("http://") || str.startsWith("https://"));
+    }
+
     fetch("../data/deals.json")
       .then((res) => res.json())
       .then((data) => {
@@ -147,7 +151,7 @@
       })
       .catch(() => {
         document.getElementById("deals").innerHTML =
-          '<p id="empty-state">Could not load deals data.</p>';
+          '<p id="fetch-error">Could not load deals data.</p>';
       });
   </script>
 </body>
