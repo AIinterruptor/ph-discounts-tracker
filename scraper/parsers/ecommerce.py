@@ -77,10 +77,19 @@ def parse_hashed_card_platform(
 
     Neither layout exposes a real per-offer URL in the static HTML (the
     "claim" buttons are client-side JS with a `data-offer` token, not an
-    anchor href) — so `url` is left empty rather than fabricated or borrowed
-    from an unrelated link (e.g. RewardPay's "Published By" author link).
+    anchor href) — so instead of fabricating one or borrowing an unrelated
+    link (e.g. RewardPay's "Published By" author link), every deal is given
+    the page's own canonical URL: `<link rel="canonical">` if present, else
+    `<meta property="og:url">`, else an empty string if neither exists.
     """
     soup = BeautifulSoup(html, "html.parser")
+    canonical_tag = soup.select_one("link[rel=canonical]")
+    if canonical_tag is not None and canonical_tag.get("href"):
+        page_url = canonical_tag.get("href", "")
+    else:
+        og_url_tag = soup.select_one('meta[property="og:url"]')
+        page_url = og_url_tag.get("content", "") if og_url_tag is not None else ""
+
     deals = []
     for card in soup.select(container_selector):
         h3 = card.select_one("h3")
@@ -112,7 +121,7 @@ def parse_hashed_card_platform(
                 title=title,
                 description=description,
                 discount_text=discount_text,
-                url="",
+                url=page_url,
                 category="ecommerce",
                 source=source_name,
                 scrape_date=scrape_date,

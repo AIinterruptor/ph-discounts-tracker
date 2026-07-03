@@ -72,6 +72,7 @@ def test_parse_hashed_card_platform_vouchercodes():
     assert deal["source"] == "VoucherCodes.ph"
     assert deal["discount_text"] != ""
     assert deal["title"] != ""
+    assert deal["url"] == "https://www.vouchercodes.ph"
 
 
 def test_parse_hashed_card_platform_rewardpay():
@@ -81,6 +82,9 @@ def test_parse_hashed_card_platform_rewardpay():
     )
     assert len(deals) >= 1
     assert deals[0]["source"] == "RewardPay Shopee"
+    assert deals[0]["url"] == "https://www.rewardpay.com/ph/shopee"
+    assert deals[0]["discount_text"] != ""
+    assert deals[0]["description"] != ""
 
 
 def test_parse_hashed_card_platform_yummy():
@@ -90,6 +94,7 @@ def test_parse_hashed_card_platform_yummy():
     )
     assert len(deals) >= 1
     assert deals[0]["source"] == "Yummy.ph Coupons"
+    assert deals[0]["url"] == "https://coupons.yummy.ph"
 
 
 def test_parse_picodi_returns_deals():
