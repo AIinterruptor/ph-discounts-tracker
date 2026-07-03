@@ -142,7 +142,7 @@
       return typeof str === "string" && (str.startsWith("http://") || str.startsWith("https://"));
     }
 
-    fetch("../data/deals.json")
+    fetch("data/deals.json")
       .then((res) => res.json())
       .then((data) => {
         allDeals = data;

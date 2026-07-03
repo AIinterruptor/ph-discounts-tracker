@@ -10,7 +10,7 @@ published as a free static site.
   Asia/Manila time via GitHub Actions.
 - Results are normalized, deduplicated, and merged into `data/deals.json`.
   A deal is dropped 14 days after it stops appearing in a scrape.
-- `site/index.html` is a dependency-free static page that reads
+- `index.html` is a dependency-free static page that reads
   `data/deals.json` directly and renders a filterable feed. Published via
   GitHub Pages.
 
@@ -29,5 +29,5 @@ published as a free static site.
 pip install -r requirements.txt
 python -m pytest tests/ -v
 python -m scraper.scrape
-python -m http.server 8000   # then open http://localhost:8000/site/index.html
+python -m http.server 8000   # then open http://localhost:8000/index.html
 ```
