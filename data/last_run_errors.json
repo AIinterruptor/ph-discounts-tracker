@@ -3,36 +3,36 @@
     "source": "SM Sale Events",
     "url": "https://www.smsupermalls.com/mall-sale-events",
     "error": "403 Client Error: Forbidden for url: https://www.smsupermalls.com/mall-sale-events",
-    "timestamp": "2026-07-21"
+    "timestamp": "2026-07-22"
   },
   {
     "source": "SM Malls Online",
     "url": "https://www.smmallsonline.com/promos-2/",
     "error": "403 Client Error: Forbidden for url: https://www.smmallsonline.com/promos-2/",
-    "timestamp": "2026-07-21"
+    "timestamp": "2026-07-22"
   },
   {
     "source": "iPrice Lazada",
     "url": "https://iprice.ph/coupons/lazada/",
     "error": "403 Client Error: Forbidden for url: https://iprice.ph/coupons/lazada/",
-    "timestamp": "2026-07-21"
+    "timestamp": "2026-07-22"
   },
   {
     "source": "iPrice Shopee",
     "url": "https://iprice.ph/coupons/shopee/",
     "error": "403 Client Error: Forbidden for url: https://iprice.ph/coupons/shopee/",
-    "timestamp": "2026-07-21"
+    "timestamp": "2026-07-22"
   },
   {
     "source": "iPrice Zalora",
     "url": "https://iprice.ph/coupons/zalora/",
     "error": "403 Client Error: Forbidden for url: https://iprice.ph/coupons/zalora/",
-    "timestamp": "2026-07-21"
+    "timestamp": "2026-07-22"
   },
   {
     "source": "Rappler Coupons",
     "url": "https://coupons.rappler.com",
     "error": "403 Client Error: Forbidden for url: https://coupons.rappler.com/",
-    "timestamp": "2026-07-21"
+    "timestamp": "2026-07-22"
   }
 ]
