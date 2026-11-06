@@ -1,5 +1,65 @@
 [
   {
+    "title": "The Generics Pharmacy Promo",
+    "description": "Get free PHP 100.00 worth of medicine when you open a BPI #SaveUp account.",
+    "discount_text": "Get free PHP 100.00 worth of medicine when you open a BPI #SaveUp account.",
+    "url": "https://www.bpi.com.ph/personal/rewards-and-promotions/promos/the-generics-pharmacy-promo",
+    "category": "bank",
+    "source": "BPI Promos",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06"
+  },
+  {
+    "title": "Highlands Coffee Promo",
+    "description": "Get 25% off on regular priced orders for a minimum spend of P500 at Highlands Coffee stores...",
+    "discount_text": "Get 25% off on regular priced orders for a minimum spend of P500 at Highlands Coffee stores...",
+    "url": "https://www.bpi.com.ph/personal/rewards-and-promotions/promos/highlands-coffee-promo",
+    "category": "bank",
+    "source": "BPI Promos",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06"
+  },
+  {
+    "title": "Kinetix+ Promo",
+    "description": "Enjoy 27% off for a gym membership package worth PHP 86,200 with your BPI Card. Plus, 3...",
+    "discount_text": "Enjoy 27% off for a gym membership package worth PHP 86,200 with your BPI Card. Plus, 3...",
+    "url": "https://www.bpi.com.ph/personal/rewards-and-promotions/promos/kinetix-plus-promo",
+    "category": "bank",
+    "source": "BPI Promos",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06"
+  },
+  {
+    "title": "The perfect trio? You, your bestie, and a free milk tea",
+    "description": "Enjoy 1 free Regular Pearl Milk Tea when you buy any 2 large drinks at participating Chati...",
+    "discount_text": "Enjoy 1 free Regular Pearl Milk Tea when you buy any 2 large drinks at participating Chati...",
+    "url": "https://www.bpi.com.ph/personal/rewards-and-promotions/promos/chatime",
+    "category": "bank",
+    "source": "BPI Promos",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06"
+  },
+  {
+    "title": "20% OFF tickets at Brickseum",
+    "description": "Build more fun with 20% OFF tickets at brickseum with your RCBC Credit Card.",
+    "discount_text": "",
+    "url": "https://rcbccredit.com/promos/brickseum1126",
+    "category": "bank",
+    "source": "RCBC Credit Promos",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06"
+  },
+  {
+    "title": "Home Loan EasyOwn SmartRate Deals",
+    "description": "A smart home loan starts with a smart rate. Take the next step toward homeownership with EasyOwn SmartRate and enjoy a rate designed to help make your dream home more affordable.",
+    "discount_text": "A smart home loan starts with a smart rate. Take the next step toward homeownership with EasyOwn SmartRate and enjoy a rate designed to help make your dream home more affordable.",
+    "url": "https://www.eastwestbanker.com/promos/home-loan-easyown-smartrate-deals",
+    "category": "bank",
+    "source": "EastWest Promos",
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06"
+  },
+  {
     "title": "EastWest foodpanda Visa Credit Card Turn-in Promo",
     "description": "Get Php 300 foodpanda e-vouchers",
     "discount_text": "Get Php 300 foodpanda e-vouchers",
@@ -7,7 +67,7 @@
     "category": "bank",
     "source": "EastWest Promos",
     "first_seen": "2026-11-05",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Transform Your Space with Up to 72% OFF Goojodoq Items Available at Shopee",
@@ -17,7 +77,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Get Up to 44% OFF Fitness Accessories at Shopee to Boost Your Workout Routine Today",
@@ -27,7 +87,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 37% OFF on Shopee’s Delicious Snacks Including Chocolates and Biscuits",
@@ -37,7 +97,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Save Up to 37% OFF on Selected Nutritional Supplements for Immunity and Wellness",
@@ -47,7 +107,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Get Up to 35% OFF on Home Laundry Garment Care Products for Lasting Freshness",
@@ -57,7 +117,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shop Shopee for UniLove Baby Care with Up to 30% OFF on Diapers, Wipes & Pants Today",
@@ -67,7 +127,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Save Up to 30% on Top Amplifiers and Mixers for Ultimate Music Production at Shopee",
@@ -77,7 +137,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Get Up to 29% OFF on Media Players That Enhance Your Streaming Experience",
@@ -87,7 +147,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 27% OFF on Opella’s Health, Wellness, and Daily Care Essentials Now",
@@ -97,7 +157,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "FREE Jack 'n Jill Sweet Treats Pack at Puregold",
@@ -107,7 +167,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Exclusive Offers at Anthem Group",
@@ -117,7 +177,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Unlock Exciting Nike 11.11 Sale Discounts on Selected Styles for Activewear and Everyday Fashion Wardrobe Refreshes",
@@ -127,7 +187,7 @@
     "category": "aggregator",
     "source": "CollectOffers PH",
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "3 months FlexipayZero at MaH",
@@ -137,7 +197,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-11-01",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Kinetix Lab Promo",
@@ -177,7 +237,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-11-01",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "0% Installment Spend Anywhere Promo",
@@ -187,7 +247,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-31",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "RCBC Airmiles Visa Signature Accelerated Airmiles Promo",
@@ -197,7 +257,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-31",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Spend Anywhere Overseas JCB Promo",
@@ -207,7 +267,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-31",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Special Offers at BIC Camera with JCB",
@@ -247,7 +307,7 @@
     "category": "bank",
     "source": "EastWest Promos",
     "first_seen": "2026-10-31",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Blims Holiday Promo",
@@ -257,7 +317,7 @@
     "category": "bank",
     "source": "EastWest Promos",
     "first_seen": "2026-10-31",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Enjoy 50% savings on buffet dining at The Grand Kitchen",
@@ -267,7 +327,7 @@
     "category": "bank",
     "source": "EastWest Promos",
     "first_seen": "2026-10-31",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Get 20% savings on buffet dining at The Grand Kitchen",
@@ -287,7 +347,7 @@
     "category": "bank",
     "source": "EastWest Promos",
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "10% savings at edamama stores",
@@ -317,7 +377,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-29",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Seda Hotel discounts with EastWest cards",
@@ -327,7 +387,7 @@
     "category": "bank",
     "source": "EastWest Promos",
     "first_seen": "2026-10-29",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 70% savings on stays at TAG Resort Coron",
@@ -337,7 +397,7 @@
     "category": "bank",
     "source": "EastWest Promos",
     "first_seen": "2026-10-29",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 55% OFF on Torriden Skincare at Shopee – Hydrate and Glow Naturally",
@@ -347,7 +407,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-28",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "P&G Detergents, Soaps & Personal Care at Shopee with Up to 33% OFF Savings",
@@ -357,7 +417,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-28",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shop Now and Get Up to 32% OFF on Medical Supplies Including Masks at Shopee",
@@ -367,7 +427,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-28",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Grab Up to 30% OFF on Lovito Accessories, Dresses & Tops at Shopee Today",
@@ -377,7 +437,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-28",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Limited Time Up to 30% OFF on Apple Gift Bundles with iPhones and Accessories at Shopee",
@@ -387,7 +447,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-28",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Maybelline at Shopee – Get Up to 20% OFF on Selected Products for Everyday Glow",
@@ -397,7 +457,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-28",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "JCBestBites Dining Deals",
@@ -407,7 +467,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-28",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "0% Installment + FREEBIE at Asian Home Appliance",
@@ -417,7 +477,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-28",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "EastWest Horizons Christmas Rewards Promo",
@@ -427,7 +487,7 @@
     "category": "bank",
     "source": "EastWest Promos",
     "first_seen": "2026-10-28",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "20% Savings on Rooms at Club Samal Resort",
@@ -447,7 +507,7 @@
     "category": "ecommerce",
     "source": "Yummy.ph Coupons",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Get Double Points and Special Discounts on Eligible Hotels When Using Expedia Mobile App",
@@ -457,7 +517,7 @@
     "category": "ecommerce",
     "source": "Yummy.ph Coupons",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Book Hotels Today on Expedia Mobile App and Receive Double Points Plus Exclusive Savings",
@@ -467,7 +527,7 @@
     "category": "food",
     "source": "Spot.ph Coupons",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "10% savings at Malagos Homegrown Café",
@@ -527,7 +587,7 @@
     "category": "aggregator",
     "source": "CollectOffers PH",
     "first_seen": "2026-10-27",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Punong-puno ng saya dahil half the price",
@@ -537,7 +597,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-10-24",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Enjoy Special Perks with United Airlines",
@@ -567,7 +627,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 80% OFF on Baby Clothing, Diapers, and Feeding Bottles – Shop Now at Shopee",
@@ -577,7 +637,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Enjoy Up to 78% OFF on Selected Mobiles and Smart Gadgets for Everyday Convenience",
@@ -587,7 +647,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shop Shopee for Makeup Deals with Up to 76% OFF on Foundations, Lipsticks & Palettes",
@@ -597,7 +657,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 75% OFF on Hair Care Favorites Like Shampoos and Serums at Shopee",
@@ -607,7 +667,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 72% OFF on Kids’ Favorites: Action Figures, Board Games, Educational Kits & More",
@@ -617,7 +677,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shopee Offers Up to 70% OFF on Sleepwear Sets Including Pajamas, Nightgowns, and Robes",
@@ -627,7 +687,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Simplus Home Electronics and Kitchen Appliances Now Up to 70% OFF for Smart Living",
@@ -637,7 +697,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Get Up to 70% OFF on Men's Traditional Wear at Shopee for Timeless Festive Fashion",
@@ -647,7 +707,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Get Up to 70% OFF Philips Home Essentials and Electronics at Shopee",
@@ -657,7 +717,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Enjoy Up to 70% OFF Ever Bilena Lipsticks, Foundations, and Eyeliners at Shopee",
@@ -667,7 +727,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 68% OFF on Shopee’s Popular Stationery Items Like Notebooks, Pens, and Planners",
@@ -677,7 +737,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Save Up to 68% OFF on Nail Polishes, Cuticle Oils, and Treatments at Shopee Today",
@@ -687,7 +747,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Upgrade Your Office Look with Up to 68% OFF Formal Shoes at Shopee",
@@ -697,7 +757,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shop Women’s Jeans at Shopee with Up to 67% OFF – Skinny, Mom & Straight Fits",
@@ -707,7 +767,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 67% OFF on Selected Android, iOS & Windows Tablets – Only at Shopee",
@@ -717,7 +777,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Discover Up to 62% OFF on Projectors Including Portable and Home Cinema Models at Shopee",
@@ -727,7 +787,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 62% OFF Men’s Boots at Shopee – Durable, Stylish, and Ready for Action",
@@ -737,7 +797,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shopee Offers Up to 61% OFF on Travel Backpacks, Luggage & Neck Pillows for Your Next Trip",
@@ -747,7 +807,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Get Up to 60% OFF Crocs Classic Clogs, Slides & Sandals Exclusively on Shopee",
@@ -757,7 +817,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 59% OFF on Men’s Wallets at Shopee – Classic Meets Modern in Stylish Designs",
@@ -767,7 +827,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 58% OFF Kids’ Activewear on Shopee – Including Tops, Shorts, Leggings & Sports Sets",
@@ -777,7 +837,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Limited Time Up to 55% OFF on USB Gadgets Like Flash Drives, Chargers, Adapters, and Hubs",
@@ -787,7 +847,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shop Now and Save Up to 52% OFF Lipsticks, Glosses, and Balms for Daily Wear",
@@ -797,7 +857,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Enjoy Up to 51% OFF on Selected Pet Care Products at Shopee Featuring Food, Toys & Accessories",
@@ -807,7 +867,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shopee’s Up to 51% OFF Discount on Pet Food & Treats for Your Furry Friends",
@@ -817,7 +877,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Experience Up to 50% OFF on Shopee Mall Flash Deals with Selected Hot Items",
@@ -827,7 +887,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Nivea Products Up to 50% OFF: Skincare, Deodorants & Lotions Now at Shopee",
@@ -837,7 +897,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Grab Up to 50% OFF on Fashion, Plush, and Collectible Dolls at Shopee – Shop Today",
@@ -847,7 +907,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Save Up to 50% OFF on Selected Shopee Mall Brands with Our Flash Deals Today",
@@ -857,7 +917,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Save Up to 45% OFF on Necklaces, Earrings & Rings – Shop Shopee’s Jewellery Deals Now",
@@ -867,7 +927,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Save Up to 29% on Pet Grooming Supplies for Daily Care and Pet Comfort",
@@ -877,7 +937,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shopee Offers Up to 20% OFF on Pet Toys and Accessories to Boost Your Pet’s Playtime",
@@ -887,7 +947,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Grab ₱118 OFF on Selected Pop Mart Figures, Toys, and Accessories at Shopee New Arrivals",
@@ -897,7 +957,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Cut Shipping Costs by ₱50 With Shopee Self Pick Up and Get Your Orders Faster",
@@ -907,7 +967,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Exclusive Buy 1 Get 1 Free on MAKUKU Baby Essentials at Shopee This Week",
@@ -917,7 +977,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 51% OFF Shopee Deals on Pet Care Essentials Including Food, Toys, Grooming & More",
@@ -927,7 +987,7 @@
     "category": "ecommerce",
     "source": "Yummy.ph Coupons",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "#SaveUp ‘Alex Eala Live’ Ticket Raffle",
@@ -937,7 +997,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-10-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "BPI Rewards Accelerator Promo",
@@ -947,7 +1007,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shangri-La Exclusive: 50% OFF One-Day Flash Sale",
@@ -967,7 +1027,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-22",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Diamond 2.0 Wooden Bed Bundle at 55% OFF – The Smart Choice for a Bedroom Makeover",
@@ -977,7 +1037,7 @@
     "category": "ecommerce",
     "source": "Yummy.ph Coupons",
     "first_seen": "2026-10-21",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Mastercard x BPI Australian Open 2027 Exclusive",
@@ -987,7 +1047,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-10-21",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Welcome Gift: ₱12,000 The Travel Club Digital Voucher or PAL e-Gift Card",
@@ -997,7 +1057,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-21",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Special Offer on ALL Accor+ Explorer Membership",
@@ -1007,7 +1067,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-21",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Samsung Wall-Mount Aircon 1.0HP with FREE ₱8,500 Installation and Extra ₱2,000 OFF Discount",
@@ -1017,7 +1077,7 @@
     "category": "aggregator",
     "source": "CollectOffers PH",
     "first_seen": "2026-10-21",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "AirAsia Promo Code - Grab ₱1,200 OFF on AirAsia International Flights for Your Upcoming Holiday and Travel Plans",
@@ -1027,7 +1087,7 @@
     "category": "aggregator",
     "source": "CollectOffers PH",
     "first_seen": "2026-10-21",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Limited Time: Save ₱9,500 OFF Samsung Window Type Air Conditioner Inverter 1.0HP and More Discounts",
@@ -1037,7 +1097,7 @@
     "category": "aggregator",
     "source": "CollectOffers PH",
     "first_seen": "2026-10-21",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Zalora Promo Code - New Customers Get ₱200 OFF While Existing Customers Receive Free Shipping When Using The Code",
@@ -1047,7 +1107,7 @@
     "category": "aggregator",
     "source": "CollectOffers PH",
     "first_seen": "2026-10-21",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Enjoy 31% OFF on Hut Pair 3 Combo with 12\" Cheese Supreme Stuffed Crust and Hawaiian Supreme Pan Pizza",
@@ -1057,7 +1117,7 @@
     "category": "ecommerce",
     "source": "Yummy.ph Coupons",
     "first_seen": "2026-10-20",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 60% OFF at PAL's Premium Cabin Seat Sale",
@@ -1107,7 +1167,7 @@
     "category": "food",
     "source": "Jollibee Promos",
     "first_seen": "2026-10-17",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Reactivate Now Get Your 2-Year AMF Waiver Promo",
@@ -1117,7 +1177,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-10-17",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Reactivate Now Get Your Cash Credit Promo",
@@ -1127,7 +1187,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-10-17",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Reactivate Now Get Your Free Card Replacement Promo",
@@ -1137,7 +1197,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-10-17",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Ang Tahanan ni Bernada Alba Promo",
@@ -1147,7 +1207,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-10-17",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Parfois Promo",
@@ -1167,7 +1227,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-10-17",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Save and Stream Raffle Promo",
@@ -1177,7 +1237,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-10-17",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Special Offers on iPhone Duo",
@@ -1197,7 +1257,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-17",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Samsonite Welcome Gift",
@@ -1207,7 +1267,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-17",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "No Annual Fee For Life!",
@@ -1217,7 +1277,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-17",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Spend Anywhere: Up to ₱5,000 CASHBACK with RCBC Landmark Anson's Credit Card",
@@ -1227,7 +1287,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-17",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Spend Anywhere: Up to ₱5,000 CASHBACK with ZALORA Credit Card",
@@ -1237,7 +1297,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-17",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shopee Sale: Up to 63% OFF on Selected Wedges, Platforms, and Trendy Footwear – Don’t Miss Out",
@@ -1247,7 +1307,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-16",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 58% OFF on Exciting Blasters, Toy Guns & Outdoor Play Sets – Only at Shopee",
@@ -1257,7 +1317,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-16",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 55% OFF on Selected Fragrances at Shopee – Perfumes, Colognes and Body Mists Included",
@@ -1267,7 +1327,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-16",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shop Women’s Jumpsuits and Rompers at Shopee with Up to 55% OFF for Casual and Night Looks",
@@ -1277,7 +1337,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-16",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Men’s Cord Sets Including Pants, Shirts & Jackets at Shopee Now Up to 52% OFF – Shop Today",
@@ -1287,7 +1347,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-16",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Rewards for every Mama’s cart",
@@ -1297,7 +1357,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-10-16",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Spend Anywhere Promo",
@@ -1307,7 +1367,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-16",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Japan & Korea Special Travel Offers at JTB",
@@ -1377,7 +1437,7 @@
     "category": "food",
     "source": "Jollibee Promos",
     "first_seen": "2026-10-15",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "BPI Debit Google Pay Promo",
@@ -1387,7 +1447,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-10-15",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Designers’ Holiday Bazaar 2026",
@@ -1397,7 +1457,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-10-15",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "20% OFF + 0% Installment at Miladay",
@@ -1407,7 +1467,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-15",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "0% Installment + Buy Now, Pay Later at SM Store",
@@ -1417,7 +1477,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-15",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Unlock Dusit Lifestyle Membership for only ₱8,000",
@@ -1437,7 +1497,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-15",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "7% savings on Samsung Galaxy Z Fold 8 Series and more",
@@ -1457,7 +1517,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Pizzarrific VYBE",
@@ -1467,7 +1527,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Cool Treats and Great VYBEs",
@@ -1477,7 +1537,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Cross-border Online Promo",
@@ -1497,7 +1557,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Nay Palad Hideaway for BPI Signature Wealth Cardholders",
@@ -1507,7 +1567,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-10-14",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Belo Promo for BPI Signature Wealth Cardholders",
@@ -1537,7 +1597,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Get Up to 66% OFF on Trendy Pet Clothing and Accessories at Shopee Now",
@@ -1547,7 +1607,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Massive Savings: Up to 64% OFF on Sace Lady Shoes, Bags, Wallets and Fashion at Shopee",
@@ -1557,7 +1617,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Get Up to 60% OFF on Selected Digital Cameras and Photography Gear at Shopee",
@@ -1567,7 +1627,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Limited Offer: Up to 57% OFF BAVIN Daily Home and Personal Products at Shopee",
@@ -1577,7 +1637,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shop Nestlé Products at Shopee and Save Up to 50% OFF on Daily Staples",
@@ -1587,7 +1647,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 50% OFF Refreshers at Shopee—Treat Yourself to Sweet and Cooling Drinks Now",
@@ -1597,7 +1657,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Limited Offer: Up to 46% OFF Gloves Including Winter Gloves at Shopee Now",
@@ -1607,7 +1667,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Jal Yoga Promo",
@@ -1617,7 +1677,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Pamilyang OF Bundle Promo",
@@ -1627,7 +1687,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Housing Loan Dream More Deals: Bonus Edition",
@@ -1637,7 +1697,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 15% OFF at Emirates with Mastercard®",
@@ -1647,7 +1707,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-13",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Halloweenchillsandthrills2026",
@@ -1657,7 +1717,7 @@
     "category": "retail",
     "source": "Robinsons Malls",
     "first_seen": "2026-10-10",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Sail to Adventure",
@@ -1667,7 +1727,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-10-10",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Get up to ₱2,000 CASHBACK with Google Pay",
@@ -1677,7 +1737,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-10",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 37% OFF at RED Planet Hotels",
@@ -1687,7 +1747,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-10",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 35% OFF Dining Privileges at Novotel Manila Araneta City",
@@ -1697,7 +1757,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-10",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Christmas in October at SM Appliance Center",
@@ -1717,7 +1777,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-10-08",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shopee’s Up to 77% OFF on Powerbanks, Chargers, and Accessories for All Your Devices",
@@ -1727,7 +1787,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-08",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 56% OFF on Guitars, Keyboards & Drums – Discover Your Musical Passion Today",
@@ -1737,7 +1797,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-08",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shopee Offers Up to 51% OFF on Selected Dairy & Eggs to Help You Save Big",
@@ -1747,7 +1807,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-08",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Upgrade Your Wardrobe with Mikana Collections at Shopee – Save Up to 50% OFF Today",
@@ -1757,7 +1817,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-08",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Save Up to 50% OFF on Dove Body Wash, Deodorants & Lotions Exclusively at Shopee",
@@ -1767,7 +1827,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-08",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shopee Discounts Up to 48% OFF on Selected Fitness Products to Energize Your Home Workout",
@@ -1777,7 +1837,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-08",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Enjoy 48% OFF Shopee Media Players for Seamless Music, Movie, and Streaming Fun",
@@ -1787,7 +1847,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-08",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Transform Your Yoga Routine with Up to 40% OFF on Mats and Blocks",
@@ -1797,7 +1857,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-08",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Refresh Your Style with Up to 33% OFF on Elegant Jewellery Rings, Necklaces & Earrings",
@@ -1807,7 +1867,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-08",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 25% OFF on Accessories Packages for a Perfectly Matched Fashion Statement",
@@ -1817,7 +1877,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-08",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "20% OFF Dining Perks at Mugen Group",
@@ -1827,7 +1887,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-08",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "#JCBChooseday: FREE Japanese Matcha at Lawson",
@@ -1837,7 +1897,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-08",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "KKday Promo Code - New to KKday Get 5% OFF Your First Booking for Memorable Global Experiences",
@@ -1847,7 +1907,7 @@
     "category": "aggregator",
     "source": "CollectOffers PH",
     "first_seen": "2026-10-08",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "H&M Promo Code - Find Stylish Casual, Formal and Accessory Clothing for Men, Women and Children with Up to 70% Savings",
@@ -1857,7 +1917,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-10-07",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Levi's Promo",
@@ -1887,7 +1947,7 @@
     "category": "retail",
     "source": "Robinsons Malls",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Myspiritxrobinsonsgalleria",
@@ -1897,7 +1957,7 @@
     "category": "retail",
     "source": "Robinsons Malls",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "1Stmainyanatrobgalleriaortigas",
@@ -1907,7 +1967,7 @@
     "category": "retail",
     "source": "Robinsons Malls",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Jollibee Christmas Big Order Service",
@@ -1917,7 +1977,7 @@
     "category": "food",
     "source": "Jollibee Promos",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Housing Loan Partner Exclusive Offer",
@@ -1927,7 +1987,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Remedy Promo",
@@ -1937,7 +1997,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Masaya ang holiday shopping kasama ang VYBE and Toys\"R\"Us",
@@ -1947,7 +2007,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 50% OFF Stays at Otamigo",
@@ -1957,7 +2017,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-06",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Hpropercoffeeroastersinmagnolia",
@@ -1967,7 +2027,7 @@
     "category": "retail",
     "source": "Robinsons Malls",
     "first_seen": "2026-10-03",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Pretzel Perfect VYBE",
@@ -1977,7 +2037,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-10-03",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 30% OFF at Le Blanc Hotel & Resort",
@@ -1987,7 +2047,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-02",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "0% Installment + FREEBIES at Joneco Tech and Idenico",
@@ -1997,7 +2057,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-02",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Exclusive Samsung Super Big TV Deals, Save Up to ₱40,000 And Get A FREE Soundbar Worth ₱35,999 For Entertainment",
@@ -2017,7 +2077,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-01",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Keep Your Workout Gear Handy with Up to 42% OFF Sports Bags at Shopee",
@@ -2027,7 +2087,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-10-01",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "1.50% Low FX Conversion Fee",
@@ -2037,7 +2097,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-01",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Unlimited Free Access to the PAGSS Lounge at NAIA T3",
@@ -2047,7 +2107,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-01",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 50% OFF at Maple Tree House, Paper Moon Café, & More Viva Foods Restaurants",
@@ -2057,7 +2117,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-01",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Extraordinary Escapes with A2A Safaris",
@@ -2067,7 +2127,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-10-01",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "BPI to Cash x M Lhuillier Cash to Karats Holiday Promo",
@@ -2077,7 +2137,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-09-30",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "30% OFF at Alba Restaurante Español",
@@ -2097,17 +2157,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-09-29",
-    "last_seen": "2026-11-05"
-  },
-  {
-    "title": "Up to 51% OFF on Pet Food, Toys, and Grooming Essentials at Shopee for Selected Items",
-    "description": "Save big with Up to 51% OFF on selected pet care essentials at Shopee. Nourish and entertain your pets with top-quality products now.",
-    "discount_text": "Up to 51% OFF",
-    "url": "https://coupons.yummy.ph",
-    "category": "ecommerce",
-    "source": "Yummy.ph Coupons",
-    "first_seen": "2026-09-29",
-    "last_seen": "2026-10-22"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Beyond Wealth",
@@ -2117,7 +2167,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-09-29",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "MBT Promo",
@@ -2127,7 +2177,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-09-29",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Jolly Arcade Kids Meal",
@@ -2137,7 +2187,7 @@
     "category": "food",
     "source": "Jollibee Promos",
     "first_seen": "2026-09-28",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "MetroDental Promo",
@@ -2147,7 +2197,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-09-26",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "#JCBestofJapan Promo: Win a Luxury Trip to Japan",
@@ -2157,7 +2207,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-09-26",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Exclusive Order Galaxy S26 FE On Samsung Shop App, Get An Additional ₱3,000 OFF With Code For Savings",
@@ -2177,7 +2227,7 @@
     "category": "retail",
     "source": "Robinsons Malls",
     "first_seen": "2026-09-25",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shopee’s Camera Deals: Up to 90% OFF on DSLRs, Mirrorless, Compact Cameras & Accessories",
@@ -2187,7 +2237,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-09-25",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shopee Grocery Deals: Up to 82% OFF on Fresh Produce, Snacks, and Staples",
@@ -2197,7 +2247,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-09-25",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Limited Time Up to 50% OFF on Selected New Styles at Shopee",
@@ -2207,7 +2257,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-09-25",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Unlock Up to 20% OFF on Selected Men’s Apparel and Refresh Your Wardrobe Today",
@@ -2217,7 +2267,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-09-25",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 20% OFF on Selected Men’s Jeans and Casual Tees for a Stylish Everyday Look",
@@ -2227,7 +2277,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-09-25",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 82% OFF Groceries at Shopee – Fresh Produce, Snacks, and Household Needs",
@@ -2237,7 +2287,7 @@
     "category": "ecommerce",
     "source": "Yummy.ph Coupons",
     "first_seen": "2026-09-25",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 82% OFF on Shopee Groceries – Fresh Produce, Snacks, and Home Essentials",
@@ -2247,7 +2297,7 @@
     "category": "food",
     "source": "Spot.ph Coupons",
     "first_seen": "2026-09-25",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Get up to ₱1,000 CASHBACK with Google Pay",
@@ -2257,7 +2307,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-09-25",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shop Yves Rocher Fragrances and Enjoy Up to 40% OFF by Using the Zalora Promo Code Today",
@@ -2267,7 +2317,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-09-24",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Agoda Promo Code - Use Code and Get 20% OFF on Hotel Bookings at Agoda and Enjoy Discounted Stays at Popular Hotels Now",
@@ -2287,7 +2337,7 @@
     "category": "ecommerce",
     "source": "Yummy.ph Coupons",
     "first_seen": "2026-09-22",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "₱1,000 OFF at SM Appliance Center",
@@ -2307,7 +2357,7 @@
     "category": "aggregator",
     "source": "CollectOffers PH",
     "first_seen": "2026-09-22",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Anantara Vacation Club Getaway for only ₱11,500",
@@ -2317,7 +2367,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-09-19",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 51% OFF on Shopee Kid’s Activewear – Quality T-Shirts, Shorts & Tracksuits for Active Lifestyles",
@@ -2327,7 +2377,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-09-18",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Save Up to 33% OFF on Cetaphil Skincare Range Available Now at Shopee",
@@ -2337,7 +2387,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-09-18",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Save As Much As 10% on Puregold Groceries and Home Essentials Exclusively at Shopee",
@@ -2347,7 +2397,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-09-18",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Save 7% OFF on Your Favorite Maybelline Lipsticks, Foundations, Mascaras & Eye Makeup Now",
@@ -2357,7 +2407,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-09-18",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Unlock Extra ₱160 OFF on Selected Shopee Deals When You Checkout with MasterCard",
@@ -2377,7 +2427,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-09-18",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Robinsonsgalleriathematchatokyo",
@@ -2387,7 +2437,7 @@
     "category": "retail",
     "source": "Robinsons Malls",
     "first_seen": "2026-09-17",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Robinsonsgalleriashoot360",
@@ -2397,7 +2447,7 @@
     "category": "retail",
     "source": "Robinsons Malls",
     "first_seen": "2026-09-17",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 45% OFF on Selected Women’s Shorts and Skorts at Love Bonito for Warm Weather Looks",
@@ -2407,7 +2457,7 @@
     "category": "aggregator",
     "source": "CollectOffers PH",
     "first_seen": "2026-09-17",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "No Annual Fee For Life: Exclusive to Online Channels",
@@ -2417,7 +2467,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-09-15",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Temu Promo Code - Decorate Living Spaces with Up to 60% OFF on Seasonal Home Accents for Home from Temu",
@@ -2427,7 +2477,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-09-15",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Save Up to 90% OFF on Shopee’s Selected Home Appliances – Shop Smart, Save Big",
@@ -2437,7 +2487,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-09-15",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Limited Time: Up to 60% OFF on Konvy Beauty Products Available at Shopee Online",
@@ -2447,7 +2497,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-09-15",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Discover Men’s Suits with Up to 58% OFF for Office and Special Event Elegance",
@@ -2457,7 +2507,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-09-15",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Get Up to 46% OFF on Comfortable and Trendy Men's Work Clothes at Shopee Now",
@@ -2467,7 +2517,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-09-15",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Save Up to 38% OFF on Household and Laundry Essentials at Shopee Today",
@@ -2477,7 +2527,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-09-15",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shopee’s Home Appliance Sale: Up to 90% OFF Selected Products for a Short Time Only",
@@ -2487,7 +2537,7 @@
     "category": "ecommerce",
     "source": "Yummy.ph Coupons",
     "first_seen": "2026-09-15",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Adventure Bundle",
@@ -2507,7 +2557,7 @@
     "category": "food",
     "source": "Spot.ph Coupons",
     "first_seen": "2026-09-15",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Bite into the good VYBEs with Dunkin’",
@@ -2517,7 +2567,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-09-15",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "FREE Mesolipo or Hydrafacial at Zest Skin Lounge",
@@ -2527,7 +2577,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-09-15",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Instant 20% OFF on Entire Under Armour Purchase When You Get Two Outlet Items Now",
@@ -2537,7 +2587,7 @@
     "category": "aggregator",
     "source": "CollectOffers PH",
     "first_seen": "2026-09-15",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Agrandwaytosaythankyou",
@@ -2547,7 +2597,7 @@
     "category": "retail",
     "source": "Robinsons Malls",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Get Up to 37% OFF on Selected Audio Speakers to Boost Your Home Entertainment Setup",
@@ -2557,7 +2607,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "10% CASHBACK in Taiwan with JCB",
@@ -2567,7 +2617,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "10% CASHBACK at Japan Premium Outlets",
@@ -2577,7 +2627,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-09-11",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Organize Cleaning Essentials With Up to 30% OFF on Jimmy Cordless Vacuum Cleaners for Comfortable Home Care",
@@ -2587,7 +2637,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Claim 5% OFF Your First KKday Booking for Adventures and Activities",
@@ -2597,7 +2647,7 @@
     "category": "ecommerce",
     "source": "Yummy.ph Coupons",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Get 5% OFF Your First KKday Booking for Exciting Adventures Around the Globe",
@@ -2607,7 +2657,7 @@
     "category": "food",
     "source": "Spot.ph Coupons",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Pay with BPI Today, Win PHP 175K Promo",
@@ -2617,7 +2667,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Better Together Bundles",
@@ -2627,7 +2677,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Better Together Bundles",
@@ -2637,7 +2687,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 15% OFF at Hydra Skin Clinic",
@@ -2647,7 +2697,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-09-09",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Save Up to 97% OFF on Stylish Women's Dresses Including Casual, Office, and Evening Looks",
@@ -2657,7 +2707,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shopee’s Laptop and Computer Sale: Save Up to 90% on Must-Have Tech Devices",
@@ -2667,7 +2717,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shopee Flash Deals Offer Up to 62% OFF on Must-Have Electronics, Fashion, and Gadgets",
@@ -2677,7 +2727,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Get ₱300 OFF on ₱400 Spend for Shopee VIP Super Steals and ₱200 OFF for Non-VIP Mari Bank Users",
@@ -2687,7 +2737,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Buy Fashion, Phones, and Home Appliances with 0% Interest via SPayLater on Shopee",
@@ -2697,7 +2747,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Book Grand Hyatt Bali with 57% OFF and Enjoy Unlimited Dining Plus Free Flow Drinks",
@@ -2707,7 +2757,7 @@
     "category": "food",
     "source": "Spot.ph Coupons",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "20% OFF at Miss Derm Beauty Lounge",
@@ -2717,7 +2767,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Spend Your Way to Maroon 5 Asia 2027 Tour: Live in Manila",
@@ -2727,7 +2777,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Win Tickets to The Maroon 5 Asia 2027 Tour: Live in Manila",
@@ -2737,7 +2787,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "50% OFF at Curves",
@@ -2747,7 +2797,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Rmalolos_Singkabanfestival",
@@ -2757,7 +2807,7 @@
     "category": "retail",
     "source": "Robinsons Malls",
     "first_seen": "2026-09-07",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 20% OFF at Gianetto",
@@ -2767,7 +2817,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-09-07",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "15% OFF at Barefaced Hair Studio and Spa",
@@ -2777,7 +2827,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-09-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "10% OFF at Dot Zero Hair Studio",
@@ -2797,7 +2847,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-09-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "25% OFF or FREE Nano Treatment at Hairshaft Salon",
@@ -2817,7 +2867,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-09-03",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Grandparents2026_Activities",
@@ -2827,7 +2877,7 @@
     "category": "retail",
     "source": "Robinsons Malls",
     "first_seen": "2026-09-02",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 50% OFF at One World Skin & Wellness",
@@ -2837,7 +2887,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-09-02",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Get Up to 72% OFF on Goojodoq Home and Kitchen Finds Only at Shopee",
@@ -2937,7 +2987,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-09-01",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Buy 1, Get 1 FREE on select salon services at Jesi Mendez",
@@ -2947,7 +2997,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-09-01",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Visa Exclusive: 10% CASHBACK at Takashimaya and BicCamera in Japan",
@@ -2957,7 +3007,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-09-01",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Get 20% OFF Qatar Airways Flights After Your 2nd and 3rd Trip with Student Club Benefits",
@@ -2967,7 +3017,7 @@
     "category": "aggregator",
     "source": "CollectOffers PH",
     "first_seen": "2026-09-01",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Unlock 20% OFF Qatar Airways Flights for Students Planning Smart Travel After Completing Multiple Journeys",
@@ -2977,7 +3027,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-09-01",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Fly More and Save 20% OFF Qatar Airways Flights on Your 2nd and 3rd Trips as a Student",
@@ -2987,7 +3037,7 @@
     "category": "ecommerce",
     "source": "Yummy.ph Coupons",
     "first_seen": "2026-09-01",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Unlock 20% OFF Qatar Airways Flights on Your Second and Third Trips for Students",
@@ -2997,7 +3047,7 @@
     "category": "food",
     "source": "Spot.ph Coupons",
     "first_seen": "2026-09-01",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Enjoy the fun VYBEs with Miniso",
@@ -3017,7 +3067,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-08-28",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 15% OFF at Uma Nota and Sabai",
@@ -3037,7 +3087,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-08-24",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Save Up to 55% on Torriden Skincare Must-Haves at Shopee",
@@ -3107,7 +3157,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-08-24",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Exclusiveperksatrobinsonsmagnolia",
@@ -3117,7 +3167,7 @@
     "category": "retail",
     "source": "Robinsons Malls",
     "first_seen": "2026-08-20",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "BPI Motorcycle Loan x GCash",
@@ -3127,7 +3177,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-08-20",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "More rides, more rewards on BPI’s 175th Anniversary",
@@ -3137,367 +3187,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-08-20",
-    "last_seen": "2026-11-05"
-  },
-  {
-    "title": "Get Up to 80% OFF on Stylish Men’s and Women’s Watches – Sports, Analog, and More",
-    "description": "Enjoy massive savings of up to 80% OFF on a wide range of watches for men and women. Choose from sports, analog, and digital styles to suit your lifestyle.",
-    "discount_text": "Up to 80% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Discover Up to 80% OFF on Baby Clothing, Diapers & Feeding Bottles at Shopee",
-    "description": "Find great savings up to 80% OFF on baby essentials at Shopee. Choose from diapers, feeding bottles, and adorable clothing to care for your little bundle of joy.",
-    "discount_text": "Up to 80% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Up to 78% OFF on Mobiles and Smart Tech Accessories at Shopee to Elevate Your Daily Life",
-    "description": "Shopee offers amazing discounts Up to 78% OFF on mobiles, smartwatches, and tech tools. Grab your must-have gadgets today while supplies last.",
-    "discount_text": "Up to 78% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Up to 76% OFF at Shopee on Popular Makeup Essentials Such as Lipsticks and Foundations",
-    "description": "Don't miss out on Shopee’s exclusive discounts up to 76% OFF on makeup essentials like lipsticks and foundations. Shop now to enjoy fabulous savings.",
-    "discount_text": "Up to 76% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Refresh Your Hair Care with Up to 75% OFF on Shampoos, Oils, Serums, Masks, and Conditioners",
-    "description": "Save Up to 75% OFF on selected hair care products at Shopee and enjoy strong, shiny hair with affordable prices.",
-    "discount_text": "Up to 75% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Save Up to 72% OFF on a Large Selection of Toys, Games, and Collectibles for All Ages",
-    "description": "Take advantage of Up to 72% OFF on toys, games, and collectibles like action figures and educational kits. Perfect for family fun and collectors alike. Don’t miss out!",
-    "discount_text": "Up to 72% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Up to 70% OFF on Selected Sleepwear Including Pajamas and Robes at Shopee",
-    "description": "Discover unbeatable deals on sleepwear at Shopee with Up to 70% OFF. Choose from comfy pajamas, elegant nightgowns, and cozy robes to upgrade your bedtime routine.",
-    "discount_text": "Up to 70% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Enjoy Up to 70% OFF on Simplus Kitchen and Small Electronics for Effortless Home Upgrades",
-    "description": "Shop Simplus kitchen appliances and home gadgets at Shopee with up to 70% OFF. Perfect time to enhance your cooking and cleaning experience.",
-    "discount_text": "Up to 70% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Enjoy Up to 70% OFF on Selected Men’s Traditional Attire at Shopee",
-    "description": "Shopee brings you up to 70% OFF on selected men’s traditional wear. Experience style and comfort ideal for festive gatherings and daily use.",
-    "discount_text": "Up to 70% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Shopee Offers Up to 70% OFF Philips Home Appliances and Electronics Deals",
-    "description": "Shop the latest Philips home appliances and electronics with up to 70% OFF at Shopee. Enhance your home with top-tier gadgets for less.",
-    "discount_text": "Up to 70% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Enjoy Up to 70% OFF Ever Bilena Lipsticks, Foundations & Eyeliners at Shopee",
-    "description": "Transform your beauty routine with up to 70% OFF Ever Bilena lipsticks, foundations, and eyeliners. Shop Shopee for bold, long-wear makeup essentials.",
-    "discount_text": "Up to 70% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Get Up to 68% OFF on Essential Stationery Including Planners, Pens, and Notebooks at Shopee",
-    "description": "Boost your productivity with up to 68% OFF on selected notebooks, pens, and office supplies available now at Shopee.",
-    "discount_text": "Up to 68% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Save Up to 68% OFF on Top Nail Care Essentials Including Polishes and Cuticle Oils at Shopee",
-    "description": "Enjoy Up to 68% OFF on selected nail care products at Shopee and treat your nails with premium polishes and nourishing oils while saving big.",
-    "discount_text": "Up to 68% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Elevate Your Look with Formal Shoes at Shopee – Up to 68% OFF Now",
-    "description": "Find your perfect pair of formal shoes on Shopee with Up to 68% OFF. Polished styles made for office wear, special events, and parties await you.",
-    "discount_text": "Up to 68% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Save Up to 67% OFF on Selected Women’s Jeans Including Skinny, Mom & Straight Fits at Shopee",
-    "description": "Elevate your denim style with up to 67% OFF on selected women’s jeans at Shopee. Discover skinny, mom, and straight fit jeans designed for comfort and fashion.",
-    "discount_text": "Up to 67% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Get Up to 67% OFF on Android, iOS & Windows Tablets at Shopee – Limited Time Offer",
-    "description": "Don’t miss Shopee’s great discounts on tablets. Save up to 67% OFF and boost your work, study, and entertainment experience.",
-    "discount_text": "Up to 67% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Grab Up to 62% OFF on Projectors Including Portable, Home, and Office Options at Shopee",
-    "description": "Shop selected projectors with up to 62% OFF and enhance your viewing experience at home or work without breaking the bank. Limited-time offer available now.",
-    "discount_text": "Up to 62% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Step Into Style with Men’s Boots at Shopee – Up to 62% OFF Selected Pairs",
-    "description": "Find durable and fashionable men’s boots with Up to 62% OFF. Great for casual and outdoor wear, these boots deliver both comfort and style.",
-    "discount_text": "Up to 62% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Get Up to 61% OFF on Selected Travel Accessories at Shopee – Luggage, Backpacks & More",
-    "description": "Shop now and take advantage of up to 61% OFF on travel accessories at Shopee. Perfect for packing smart and traveling comfortably wherever you go.",
-    "discount_text": "Up to 61% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Get Comfortable with Crocs Classic Clogs, Slides & Sandals Up to 60% OFF at Shopee",
-    "description": "Shop Crocs on Shopee and enjoy Up to 60% OFF. Discover versatile footwear that offers all-day comfort for home, outings, and travel with great discounts.",
-    "discount_text": "Up to 60% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Save Up to 59% OFF on Men’s Wallets at Shopee – Perfect for Work and Travel Needs",
-    "description": "Find slim and durable men’s wallets at Shopee with up to 59% OFF, designed to keep your essentials organized every day.",
-    "discount_text": "Up to 59% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Up to 58% OFF on Kids Activewear Featuring Trendy Tops, Sports Sets, Leggings & Shorts",
-    "description": "Save big Up to 58% OFF on kids’ activewear at Shopee. Ideal for active children who love stylish and comfy outfits.",
-    "discount_text": "Up to 58% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Boost Your Setup with Up to 55% OFF USB Chargers, Adapters, Hubs & Flash Drives",
-    "description": "Unlock up to 55% OFF on USB gadgets at Shopee, designed to keep your workspace organized and devices charged efficiently.",
-    "discount_text": "Up to 55% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Up to 52% OFF Selected Lipsticks, Glosses & Balms to Enhance Your Everyday Style",
-    "description": "Shop lip makeup with Up to 52% OFF and enjoy rich color and shine that lasts throughout your busy day.",
-    "discount_text": "Up to 52% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Shopee Offers Up to 51% OFF on Essential Pet Supplies Like Food, Toys, and Grooming Items",
-    "description": "Shop pet care products with Up to 51% OFF at Shopee. Find quality food, toys, and accessories that your furry friends will love every day.",
-    "discount_text": "Up to 51% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Treat Your Pets Right with Shopee’s Up to 51% OFF on Pet Food & Treats",
-    "description": "Shopee makes it affordable to care for your pets. Enjoy up to 51% OFF on selected pet food and treats – guaranteed to keep them happy.",
-    "discount_text": "Up to 51% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Shopee Mall Flash Deals Offer Up to 50% OFF on Selected Must-Have Products Today",
-    "description": "Save big with Shopee Mall flash deals offering up to 50% OFF on a variety of essential products. Shop now to take advantage of this limited-time discount.",
-    "discount_text": "Up to 50% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Save Up to 50% OFF on Nivea’s Top Skincare, Deodorants, Lotions, and Lip Care Picks This Season",
-    "description": "Enjoy great discounts up to 50% OFF on Nivea’s trusted skincare, deodorants, lip balms, and lotions suitable for all skin types.",
-    "discount_text": "Up to 50% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Up to 50% OFF on Fashion Dolls, Collectibles & Plush Toys – Shop Now at Shopee",
-    "description": "Enjoy fantastic savings with Up to 50% OFF on dolls at Shopee. Perfect for building a fun and creative toy collection.",
-    "discount_text": "Up to 50% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Save Up to 50% OFF on Shopee Mall Flash Deals Featuring Top Trusted Brands Today",
-    "description": "Take advantage of up to 50% OFF on selected Shopee Mall flash deal items and enjoy amazing savings on authentic, high-quality trusted brands while stocks last.",
-    "discount_text": "Up to 50% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Discover Up to 45% OFF on Necklaces, Earrings, Rings & Jewellery Essentials at Shopee",
-    "description": "Shop now and enjoy Up to 45% OFF on selected jewellery to enhance your style with affordable elegance.",
-    "discount_text": "Up to 45% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Up to 29% OFF on Pet Grooming Essentials – Keep Your Pets Fresh and Healthy Daily",
-    "description": "Take advantage of this deal with up to 29% OFF on grooming supplies to maintain your pets’ health and cleanliness. Shop now and pamper your pets affordably.",
-    "discount_text": "Up to 29% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Up to 20% OFF on Pet Toys and Accessories to Keep Your Pets Engaged Daily",
-    "description": "Find the perfect toys and accessories for your pets at Up to 20% OFF. Give them the fun they deserve while enjoying great savings.",
-    "discount_text": "Up to 20% OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Score ₱118 OFF on New Pop Mart Figures, Toys & Accessories at Shopee Today",
-    "description": "Shop new Pop Mart collectibles at Shopee and save ₱118 instantly. Ideal for collectors looking to expand their collection with fresh figures and toys.",
-    "discount_text": "₱118 OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Shopee Offers Up to ₱50 OFF Shipping Fees When You Choose Self Pick Up Option",
-    "description": "Enjoy up to ₱50 OFF shipping fees by opting for self pick up on selected Shopee products. Save money and get your items faster at nearby pick-up points.",
-    "discount_text": "Up to ₱50 OFF",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
-  },
-  {
-    "title": "Buy 1 Get 1 Free on MAKUKU Baby Essentials Now Available at Shopee Online",
-    "description": "Take advantage of Shopee’s Buy 1 Get 1 Free promotion on MAKUKU products. Perfect for parents wanting to stock up on quality baby feeding and care items.",
-    "discount_text": "Buy 1 Get 1",
-    "url": "https://www.rewardpay.com/ph/shopee",
-    "category": "ecommerce",
-    "source": "RewardPay Shopee",
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-10-22"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "20% OFF at Color My Hair",
@@ -3507,7 +3197,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-08-19",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "20% OFF at Cre8 Salon",
@@ -3517,7 +3207,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-08-19",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "15% OFF at Pretty and Calm Medical Aesthetics and Laser Center",
@@ -3527,7 +3217,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-08-19",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up To 10% OFF + 0% Installment at Helios",
@@ -3537,7 +3227,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-08-17",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "20% OFF at Smith & Wollensky Grill",
@@ -3547,7 +3237,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-08-17",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Udemy Promo Code - Explore Udemy Artificial Intelligence Courses with Up to 84% OFF to Develop Skills and Advance Career",
@@ -3557,7 +3247,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-08-14",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "30% OFF at Il Padrino",
@@ -3567,7 +3257,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-08-14",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "FREE Iced Coffee or 10% OFF at R Bistro Café",
@@ -3577,7 +3267,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-08-14",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "FREE ₱500 Gift Certificate at Electric Garden",
@@ -3587,7 +3277,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-08-14",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "The GRAND CASHBACK-TO-BACK Promo",
@@ -3597,7 +3287,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-08-14",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "VYBE into Bold Flavors with Propaganda Bistro",
@@ -3610,16 +3300,6 @@
     "last_seen": "2026-10-23"
   },
   {
-    "title": "VYBE into Tokyo’s Best with Akimitsu",
-    "description": "Enjoy 8 pcs California Maki for only PHP 150 when you pay using VYBE with a minimum spend...",
-    "discount_text": "Enjoy 8 pcs California Maki for only PHP 150 when you pay using VYBE with a minimum spend...",
-    "url": "https://www.bpi.com.ph/personal/rewards-and-promotions/promos/vybe-into-tokyos-best-with-akimitsu",
-    "category": "bank",
-    "source": "BPI Promos",
-    "first_seen": "2026-08-13",
-    "last_seen": "2026-10-22"
-  },
-  {
     "title": "Experience World-Class Beachfront Living at Grand Hyatt Bali and Save 57% On Your Tropical Getaway to Vibrant Nusa Dua",
     "description": "Stays at Grand Hyatt Bali are now discounted by 57% . Surrounded by natural beauty, the resort blends open-air design with luxury finishes. Guests have access to on-site activities and cultural performances in the evenings.",
     "discount_text": "57% OFF",
@@ -3627,7 +3307,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-08-12",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "May BPI Dito First Deposit Offer",
@@ -3637,7 +3317,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-08-11",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 50% OFF at Hear Life Philippines",
@@ -3647,7 +3327,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-08-11",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 50% OFF at Active Hearing Center",
@@ -3657,7 +3337,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-08-11",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "FREE Coffee at Little Flour Café NAIA T1",
@@ -3667,7 +3347,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-08-10",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "20% OFF at HOP INN Hotel",
@@ -3677,7 +3357,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-08-10",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "20% OFF at Feta Mediterranean",
@@ -3687,7 +3367,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-08-09",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Allyearfunatplaylab",
@@ -3697,7 +3377,7 @@
     "category": "retail",
     "source": "Robinsons Malls",
     "first_seen": "2026-08-07",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Get Up to 15% OFF Kids' Wear for Everyday Outfits, School Days, Weekend Activities and Seasonal Wardrobe Updates",
@@ -3707,7 +3387,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-08-07",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "0% Installment + GIFT at OUR HOME",
@@ -3717,7 +3397,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-08-07",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "FUSO Exclusive Offer",
@@ -3737,7 +3417,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-08-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "50% OFF at Winford Resort & Casino Manila",
@@ -3747,7 +3427,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-08-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "May BPI Dito Account Opening Offer",
@@ -3757,7 +3437,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-08-03",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "FREE Foot Massage at The Mandara Spa",
@@ -3767,7 +3447,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-08-03",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "50% OFF at Cosma Aesthetics and Lifestyle Institute",
@@ -3777,7 +3457,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-08-03",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Discover Free Delivery Offer on All Apple Products Purchased Through Apple Store Online With No Extra Charges Across All Product Categories",
@@ -3787,7 +3467,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-31",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "FREE night and 3+1 dining at Alona by Jpark Island Resort",
@@ -3797,7 +3477,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-31",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "FREE night + 50% OFF dining at Jpark Island Resort & Waterpark, Mactan Cebu",
@@ -3807,7 +3487,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-31",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 50% OFF at Avignon Clinic",
@@ -3837,7 +3517,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-31",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 50% OFF at Mandarin Island Hotel",
@@ -3847,7 +3527,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-31",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 50% OFF at Mandarin Bay Resort and Spa",
@@ -3857,7 +3537,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-31",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "50% OFF a Deluxe Room at Acacia Hotel Manila",
@@ -3867,7 +3547,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-31",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Improve Your Home With Lighting and Improvement Products on AliExpress With Up to 70% OFF Available",
@@ -3877,7 +3557,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-30",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Enjoy Up to 70% OFF on Home Improvement and Lighting Products at AliExpress",
@@ -3897,7 +3577,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-30",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shopee Promo Code - Enjoy Up to 84% OFF on Women Accessories Including Bags, Caps, and More at Shopee",
@@ -3907,7 +3587,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-29",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Get 30% OFF Adidas Originals Sneakers, Apparel and Accessories - Refresh Your Style with This Limited Time Deal",
@@ -3917,7 +3597,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-29",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Royal Enfield Exclusive Offer",
@@ -3927,7 +3607,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-07-28",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shein Promo Code - Enjoy Up to 15% OFF on Stylish Women’s Clothing at Shein",
@@ -3937,7 +3617,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-27",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Protect Your Devices and Personal Data with Norton 360 Free for 14 Days and Access VPN Password Manager and More Security Tools",
@@ -3947,7 +3627,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-27",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Save Up to 15% OFF on Shein’s Trendy Women’s Wear – Perfect for Your Everyday Style",
@@ -3957,7 +3637,7 @@
     "category": "food",
     "source": "Spot.ph Coupons",
     "first_seen": "2026-07-27",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shein Promo Code - Up to 15% OFF on Shein’s Stylish Women’s Clothing – Your Wardrobe’s New Best Friend",
@@ -3967,7 +3647,7 @@
     "category": "aggregator",
     "source": "CollectOffers PH",
     "first_seen": "2026-07-27",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Jumpstart Event",
@@ -3977,7 +3657,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-07-24",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "10% OFF at Le Feu Steak House",
@@ -3987,7 +3667,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-23",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Lazada promo code",
@@ -3997,7 +3677,7 @@
     "category": "ecommerce",
     "source": "Picodi PH",
     "first_seen": "2026-07-21",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Unlock Up to 20% OFF Herbs Spices Seasonings and Pantry Staples at iHerb for Daily Cooking Inspiration Today",
@@ -4007,7 +3687,7 @@
     "category": "food",
     "source": "Spot.ph Coupons",
     "first_seen": "2026-07-17",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Emma Promo Code - Save 55% on Emma’s Diamond 2.0 Wooden Bed Bundle Designed for Durable Sleep Support and Style",
@@ -4017,7 +3697,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-16",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "20% OFF Dining Privileges at Conrad Manila",
@@ -4027,7 +3707,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-16",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Exclusive Discounts at edamama",
@@ -4037,7 +3717,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-15",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "50% OFF at Hotel Celeste",
@@ -4047,7 +3727,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-14",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "45% OFF at Boracay Tropics",
@@ -4057,7 +3737,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-14",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "BPI Auto Loan Dream More Deals",
@@ -4067,7 +3747,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-07-13",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "BPI Big Bike Motorcycle Loan Dream More Deals",
@@ -4077,7 +3757,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-07-13",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "BPI Motorcycle Loan Dream More Deals",
@@ -4087,7 +3767,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-07-13",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Welcome Gift: Up to ₱10,000 CASHBACK",
@@ -4097,7 +3777,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-10",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Exclusive Freebies + 0% Installment & BNPL at Fonestyle",
@@ -4107,7 +3787,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-10",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Robinsonsgalleriaxrelitours",
@@ -4117,7 +3797,7 @@
     "category": "retail",
     "source": "Robinsons Malls",
     "first_seen": "2026-07-09",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 50% OFF at Hashi Pan Asian Restaurant",
@@ -4127,7 +3807,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-09",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 20% OFF at Mövenpick Resort & Spa Boracay",
@@ -4137,7 +3817,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-08",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "₱30 Multiple-Entry Japan Visa Processing Fee",
@@ -4147,7 +3827,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-07",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "10% OFF at Apple & Eve",
@@ -4157,7 +3837,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-06",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Galleriafreeparking2026",
@@ -4167,7 +3847,7 @@
     "category": "retail",
     "source": "Robinsons Malls",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Robinsonsmalls_Independenceday2026",
@@ -4177,7 +3857,7 @@
     "category": "retail",
     "source": "Robinsons Malls",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Pickleball_Clinic_Goplay_Zone",
@@ -4187,7 +3867,7 @@
     "category": "retail",
     "source": "Robinsons Malls",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Galleriadiningrewardspromo",
@@ -4197,7 +3877,7 @@
     "category": "retail",
     "source": "Robinsons Malls",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Galleriagoodies2026",
@@ -4207,7 +3887,7 @@
     "category": "retail",
     "source": "Robinsons Malls",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Robinsonsmalls_Eoss_2026",
@@ -4217,7 +3897,7 @@
     "category": "retail",
     "source": "Robinsons Malls",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Puma Promo Code - Make Every Day Playful With Puma Kids Footwear and Clothing Offered at Up to 66% OFF for Stylish Comfort",
@@ -4227,7 +3907,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Buy Two Outlet Items at Under Armour and Unlock Extra 20% OFF Instantly on Whole Order",
@@ -4237,7 +3917,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Get Up to 45% OFF on Women’s Shorts at Love Bonito With Stylish and Comfortable Designs for Daily Wear",
@@ -4247,7 +3927,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Pizza Hut Promo Codes - Pizza Hut Customers Can Get 38% OFF on Hot Deals Trio With Pizza, Sides and Drinks for Sharing",
@@ -4257,7 +3937,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Foodpanda Promo Code - Take 50% OFF Your First Food Order From Popular Restaurants Through Foodpanda App or Website",
@@ -4267,7 +3947,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Enjoy Up to 82% OFF on Groceries at Shopee Covering Fresh Produce, Pantry Items, Snacks and Household Essentials",
@@ -4277,7 +3957,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Prepare Family Meal Favorites and Enjoy Up to 20% OFF on Herbs, Spices and Pantry Staples at iHerb",
@@ -4287,7 +3967,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Discover Gourmet Delights and Specialty Coffee With a Complimentary US$20 Food And Drink Voucher Today",
@@ -4297,7 +3977,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Sa Sa Promo Code - Start Shopping and Save 25% OFF on Your First Skincare and Makeup Order",
@@ -4307,7 +3987,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Sephora Promo Code - Take 10% OFF Your First Sephora Purchase by Entering a Code at Checkout for New Shoppers",
@@ -4317,7 +3997,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Receive 30% OFF on Daily Brain Health Supplements Including Herbal Capsules and Essential Nutrients at iHerb",
@@ -4327,7 +4007,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Refresh Your Routine with Up to 88% OFF on Cleansers, Serums and Masks",
@@ -4337,7 +4017,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Receive Up to 15% OFF On Selected Beauty and Personal Care Items at Shein When Applying The Promo Code During Checkout",
@@ -4347,7 +4027,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Get Up to 90% OFF on Home Appliance Deals While Stocks Last for This Short-Term Offer",
@@ -4357,7 +4037,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Puma Promo Code - Upgrade Your Active and Casual Style With Puma Sportswear and Footwear and Enjoy an Extra 30% OFF Sitewide Today",
@@ -4367,7 +4047,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Nike Promo Code - Get Up to 40% OFF on Latest Nike Styles Covering Footwear, Apparel and Accessories",
@@ -4377,7 +4057,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Save 15% OFF on Shein’s Sports and Outdoor Gear Made for Comfort and Performance",
@@ -4387,7 +4067,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Enjoy 15% OFF on Razer Products for Students and Teachers Through Education Program Access",
@@ -4397,7 +4077,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 78% OFF on Shopee for Mobiles, Wireless Audio Devices, Wearables and Charging Items Today",
@@ -4407,7 +4087,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Samsung Corporate Employee Program Lets Members Enjoy Up to 25% OFF on Galaxy Devices After Sign Up",
@@ -4417,7 +4097,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Gcash Promo Code - Pay with Ease and No Service Fees for Travel Expenses Using Gcash Global Pay Abroad",
@@ -4427,7 +4107,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Book Your Hotel Through The App To Earn Double Points And Unlock Additional Savings On Your Stay",
@@ -4437,7 +4117,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Earn Reward Points With Selected Hotels on Hotels.com and Save on Future Stays",
@@ -4447,7 +4127,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "AirAsia Promo Code - Book Through the AirAsia MOVE App and Enjoy Special US$12 Discount on Eligible Travel Reservations",
@@ -4457,7 +4137,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Find Mothercare Maternity and Baby Essentials Now Available Up to 65% OFF for Comfortable Parenting",
@@ -4467,7 +4147,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Save Up to 80% on Baby Products at Shopee Featuring Diapers, Feeding Bottles, Clothing and Additional Essentials",
@@ -4477,7 +4157,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Save 30% on Under Armour Kids’ Sportstyle Gear for Everyday School, Sports and Play",
@@ -4487,7 +4167,7 @@
     "category": "ecommerce",
     "source": "VoucherCodes.ph",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shopee Promo Code - Shopee Welcomes New Users With Up to 90% OFF on First Purchase Across a Wide Product Selection",
@@ -4497,7 +4177,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shopee Promo Code - Shop Men’s Apparel With Up to 88% OFF at Shopee Including Workwear, Casual Outfits, Streetwear and Basics",
@@ -4507,7 +4187,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shopee Promo Code - Shop Stylish Women Accessories at Shopee and Get Up to 84% OFF – Use Code for Extra Savings",
@@ -4517,7 +4197,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Save Big with Up to 20% OFF on Condoms & Intimate Care Products at Shopee",
@@ -4527,7 +4207,7 @@
     "category": "ecommerce",
     "source": "RewardPay Shopee",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "foodpanda voucher code",
@@ -4537,7 +4217,7 @@
     "category": "ecommerce",
     "source": "Picodi PH",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shopee coupon",
@@ -4547,7 +4227,7 @@
     "category": "ecommerce",
     "source": "Picodi PH",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Klook promo code",
@@ -4557,7 +4237,7 @@
     "category": "ecommerce",
     "source": "Picodi PH",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Zalora discount code",
@@ -4567,7 +4247,7 @@
     "category": "ecommerce",
     "source": "Picodi PH",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Nike promo code",
@@ -4577,7 +4257,7 @@
     "category": "ecommerce",
     "source": "Picodi PH",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Qatar Airways promo code",
@@ -4587,7 +4267,7 @@
     "category": "ecommerce",
     "source": "Picodi PH",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "KKday promo code",
@@ -4597,7 +4277,7 @@
     "category": "ecommerce",
     "source": "Picodi PH",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Sephora promo code",
@@ -4607,7 +4287,7 @@
     "category": "ecommerce",
     "source": "Picodi PH",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Expedia promo code",
@@ -4617,7 +4297,7 @@
     "category": "ecommerce",
     "source": "Picodi PH",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Pizza Hut Hot Deals Trio, Save 38% OFF on 3 Pan Pizzas, Sides & Drinks for a Complete Meal",
@@ -4627,7 +4307,7 @@
     "category": "ecommerce",
     "source": "Yummy.ph Coupons",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "New Customers Can Enjoy 50% OFF on Their First Food Order via Foodpanda App or Website",
@@ -4637,7 +4317,7 @@
     "category": "ecommerce",
     "source": "Yummy.ph Coupons",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Treat Yourself With A Complimentary US$20 Food And Drink Voucher To Experience Gourmet Meals And Specialty Coffee",
@@ -4647,7 +4327,7 @@
     "category": "ecommerce",
     "source": "Yummy.ph Coupons",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "57% OFF Grand Hyatt Bali Stay Including Unlimited Dining and Drinks for a Perfect Getaway",
@@ -4657,7 +4337,7 @@
     "category": "ecommerce",
     "source": "Yummy.ph Coupons",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Transform Living Spaces With Up to 60% OFF Stylish Seasonal Home Decor Collections at Temu",
@@ -4667,7 +4347,7 @@
     "category": "ecommerce",
     "source": "Yummy.ph Coupons",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Experience Fee-Free International Payments Abroad with Gcash Global Pay While Traveling",
@@ -4677,7 +4357,7 @@
     "category": "ecommerce",
     "source": "Yummy.ph Coupons",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Earn Double Loyalty Points And Unlock Better Hotel Rates By Booking Directly Within The Travel App",
@@ -4697,7 +4377,7 @@
     "category": "ecommerce",
     "source": "Yummy.ph Coupons",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "AirAsia MOVE App Offer – Get US$12 OFF Instantly When You Book Your Travel Directly Through the App",
@@ -4707,7 +4387,7 @@
     "category": "ecommerce",
     "source": "Yummy.ph Coupons",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Undas 2025: Chow-to-Go Booth",
@@ -4717,7 +4397,7 @@
     "category": "food",
     "source": "Chowking Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Mix & Match: Lucky Combos",
@@ -4727,7 +4407,7 @@
     "category": "food",
     "source": "Chowking Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Tipidelivery on CK App",
@@ -4737,7 +4417,7 @@
     "category": "food",
     "source": "Chowking Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Enjoy Up to 60% OFF on Selected Men’s and Women’s Running Sneakers and Casual Shoes",
@@ -4747,7 +4427,7 @@
     "category": "food",
     "source": "Spot.ph Coupons",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Give Kids Trendy and Comfortable Looks With Puma Footwear and Clothing Offered at Up to 66% OFF for Everyday Play",
@@ -4757,7 +4437,7 @@
     "category": "food",
     "source": "Spot.ph Coupons",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Discover Up to 45% OFF on Women’s Shorts and Skorts",
@@ -4767,7 +4447,7 @@
     "category": "food",
     "source": "Spot.ph Coupons",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Limited Time Offer - Get Up to 84% OFF on Women Accessories at Shopee – Use Code to Save Big",
@@ -4777,7 +4457,7 @@
     "category": "food",
     "source": "Spot.ph Coupons",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Get 38% OFF on Pizza Hut’s Hot Deals Trio with 3 Pan Pizzas, Sides and Drinks at ₱519",
@@ -4787,7 +4467,7 @@
     "category": "food",
     "source": "Spot.ph Coupons",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Take 50% OFF Your First Food Order When Joining Foodpanda as a New Customer",
@@ -4797,7 +4477,7 @@
     "category": "food",
     "source": "Spot.ph Coupons",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Redeem A Complimentary US$20 Food And Drink Voucher And Delight In Artisanal Dishes And Coffee Creations",
@@ -4807,7 +4487,7 @@
     "category": "food",
     "source": "Spot.ph Coupons",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Go Global with Gcash Global Pay and Travel with No Service Fees on International Payments",
@@ -4817,7 +4497,7 @@
     "category": "food",
     "source": "Spot.ph Coupons",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Use The Travel App To Access Hotel Discounts And Earn Double Points For Every Eligible Booking You Make",
@@ -4837,7 +4517,7 @@
     "category": "food",
     "source": "Spot.ph Coupons",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "AirAsia MOVE App Offer – Grab US$12 OFF Instantly When You Book Your Travel Directly Through the App",
@@ -4847,7 +4527,7 @@
     "category": "food",
     "source": "Spot.ph Coupons",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "LeBlanc Hotel and Resort Promo",
@@ -4857,7 +4537,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "BPI Member Get Member Program",
@@ -4877,7 +4557,7 @@
     "category": "bank",
     "source": "BPI Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Free Premium Donut at J.Co Reserve NAIA Terminal 3",
@@ -4887,7 +4567,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 45% OFF at Big Sky Nation",
@@ -4897,7 +4577,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Welcome Gift: Up to ₱10,000 The Travel Club Digital Voucher",
@@ -4907,7 +4587,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Welcome Gift: Up to ₱10,000 adidas eGift",
@@ -4917,7 +4597,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "15% OFF at Luxelle",
@@ -4927,7 +4607,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "35% OFF at Sunlight Hotels & Resorts",
@@ -4937,7 +4617,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 45% OFF at Midori Clark Hotel",
@@ -4947,7 +4627,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 53% OFF at Luxent Hotel",
@@ -4957,7 +4637,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 30% OFF at Crowne Plaza Manila Galleria",
@@ -4967,7 +4647,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "10% OFF at Holiday Inn & Suites Manila Galleria",
@@ -4977,7 +4657,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 40% OFF at Best Western Plus Hotel Subic",
@@ -4987,7 +4667,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 40% OFF at Best Western Plus Metro Clark",
@@ -4997,7 +4677,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "30% OFF at Storya Kitchen",
@@ -5007,7 +4687,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to ₱700 OFF at Trip.com",
@@ -5017,7 +4697,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Redeem Rewards Points for Rustan’s gift cards",
@@ -5027,7 +4707,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 35% OFF Dining Privileges at The Manila Hotel",
@@ -5037,7 +4717,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "10% OFF at Chika-Chon",
@@ -5047,7 +4727,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "10% OFF at Sutukil by the bay",
@@ -5057,7 +4737,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "10% OFF at Loca Kitchen + Cafe",
@@ -5067,7 +4747,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "10% OFF at Foodlab by Creative Cuisine Group",
@@ -5077,7 +4757,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "10% OFF at Da-In Korean Restaurant",
@@ -5087,7 +4767,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "10% OFF at Parola Seaview Restaurant",
@@ -5097,7 +4777,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "10% OFF Brique Modern Kitchen",
@@ -5107,7 +4787,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "10% OFF at Chika-an Cebuano Kitchen",
@@ -5117,7 +4797,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 30% OFF at Illo's Group",
@@ -5127,7 +4807,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "FREE Buta Teriyaki Gohan at Ramen Daisho",
@@ -5137,7 +4817,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Rewards Voucher to shop in-store at Edamama",
@@ -5147,7 +4827,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shop Now, Pay Later at Robinsons Department Store",
@@ -5157,7 +4837,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "20% OFF at Four Points by Sheraton Boracay",
@@ -5167,7 +4847,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 30% OFF at Bohol Shores",
@@ -5177,7 +4857,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 70% OFF at Crimson Resort & Spa Boracay",
@@ -5187,7 +4867,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "20% OFF at 101 Luna Resto x Café",
@@ -5197,7 +4877,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Free Global Airport Lounge Benefits with UnionPay",
@@ -5207,7 +4887,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "45% OFF at Fairways & Bluewater Boracay",
@@ -5217,7 +4897,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "50% OFF at Badian Island Wellness Resort",
@@ -5227,7 +4907,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 50% OFF at ArmouryPH",
@@ -5237,7 +4917,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 65% OFF at The Bellevue Manila",
@@ -5247,7 +4927,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 35% OFF at Tambuli Seaside Resort and Spa",
@@ -5257,7 +4937,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 30% OFF at Two Seasons Hotel and Resorts",
@@ -5267,7 +4947,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 40% OFF at B Hotel Alabang",
@@ -5277,7 +4957,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 49% OFF at B Hotel Quezon City",
@@ -5287,7 +4967,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Redeem Rewards Points for PAGSS Lounge Access",
@@ -5297,7 +4977,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "20% OFF + Free Shipping at FlowerStore.ph",
@@ -5307,7 +4987,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "20% OFF + Free Shipping at Potico.ph",
@@ -5317,7 +4997,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 30% OFF Dining Deals at Admiral Hotel Manila – MGallery",
@@ -5327,7 +5007,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 10% OFF at Peralta Vet Center",
@@ -5337,7 +5017,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 30% OFF at Hotel Okura Manila",
@@ -5347,7 +5027,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 40% OFF at Waterfront Hotels",
@@ -5357,7 +5037,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Simplified Korea Visa Application with RCBC Credit Cards",
@@ -5367,7 +5047,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "₱200 OFF or Free Shipping at ZALORA",
@@ -5377,7 +5057,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 50% OFF at Fairmont and Raffles Makati",
@@ -5387,7 +5067,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 20% OFF at F1 Hotel Manila",
@@ -5397,7 +5077,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Stay 3 Nights, Pay 2 Nights at Agoda",
@@ -5407,7 +5087,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "FREE VIP Service at Chinese Visa Center",
@@ -5417,7 +5097,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Special Offers at Makati Diamond Residences",
@@ -5427,7 +5107,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "10% OFF at Designer Blooms",
@@ -5437,7 +5117,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "SM Store's Buy Now, Pay Later at 0% Installment",
@@ -5447,7 +5127,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Redeem your Rewards Points for SM Appliance Center Shopping Vouchers!",
@@ -5457,7 +5137,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Up to 10% OFF at New Alabang Veterinary Center",
@@ -5467,7 +5147,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Welcome Gift for New RCBC Visa Infinite Cardholders",
@@ -5477,17 +5157,7 @@
     "category": "bank",
     "source": "RCBC Credit Promos",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
-  },
-  {
-    "title": "Photobook Promo Code - New Customers Receive 60% Discount on Photobooks and Free Shipping on Their First Order",
-    "description": "New customers can enjoy, a 60% OFF discount on photobooks sitewide. Along with this substantial savings, they will also receive free shipping, making it easy and affordable to create personalized photo albums.",
-    "discount_text": "60% OFF",
-    "url": "https://www.collectoffers.com/ph",
-    "category": "aggregator",
-    "source": "CollectOffers PH",
-    "first_seen": "2026-07-04",
-    "last_seen": "2026-10-22"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Foodpanda Promo Code - Enjoy 50% OFF Your First Food Order as a New Customer When Ordering via Foodpanda App or Website",
@@ -5497,7 +5167,7 @@
     "category": "aggregator",
     "source": "CollectOffers PH",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Gcash Promo Code - Make International Payments Abroad with Gcash Global Pay and Say Goodbye to Service Fees",
@@ -5507,7 +5177,7 @@
     "category": "aggregator",
     "source": "CollectOffers PH",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Travel More Efficiently By Booking Through The App To Save On Hotels And Collect Double Reward Points",
@@ -5527,7 +5197,7 @@
     "category": "aggregator",
     "source": "CollectOffers PH",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Nike Promo Code – Save Up to 60% on Selected Men’s and Women’s Shoes Including Running Sneakers and Casual Styles",
@@ -5537,7 +5207,7 @@
     "category": "aggregator",
     "source": "CollectOffers PH",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Puma Promo Code - Keep Kids Active and Stylish With Puma Footwear and Clothing Available at Up to 66% OFF for Everyday Fun",
@@ -5547,7 +5217,7 @@
     "category": "aggregator",
     "source": "CollectOffers PH",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   },
   {
     "title": "Shopee Promo Code - Enjoy Up to 84% OFF on Women Accessories at Shopee Use Code for Discounts Today",
@@ -5557,6 +5227,6 @@
     "category": "aggregator",
     "source": "CollectOffers PH",
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-05"
+    "last_seen": "2026-11-06"
   }
 ]
